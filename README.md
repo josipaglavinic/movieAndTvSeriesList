@@ -3,7 +3,7 @@
 Application for viewing movies and tv-series.
 
 ## Setting up
-- clone repository (https://github.com/josipaglavinic/newsApp)
+- clone repository (https://github.com/josipaglavinic/movieAndTvSeriesList)
 - ``` npm install ```
 - ``` npm start ```
 -  visit (http://localhost:3000) in the browser
