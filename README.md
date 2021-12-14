@@ -15,5 +15,4 @@ Application for viewing movies and tv-series.
 - pagination
 - material ui
 
-![trending](https://user-images.githubusercontent.com/75853323/146000578-10d7474a-d6d2-4d21-8a02-09d7f289307b.PNG)
-![movies](https://user-images.githubusercontent.com/75853323/146000628-b2987eb5-10a6-40fb-a921-7da066b3352d.PNG)
+![gif](https://user-images.githubusercontent.com/75853323/146002991-8f8b1f1a-f623-4f39-baf2-53b8b65bbbc9.gif)
