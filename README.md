@@ -9,7 +9,7 @@ Application for viewing movies and tv-series.
 -  visit (http://localhost:3000) in the browser
 
 # Features
-- display trending movies and TV series usin API
+- display trending movies and TV series using API
 - filter movie or tv series by choosing category
 - search for movies or tv series
 - pagination
