@@ -1,0 +1,14 @@
+.trending {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.page-title {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  color: #dd6e23;
+}
