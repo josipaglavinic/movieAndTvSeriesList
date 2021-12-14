@@ -1,5 +1,7 @@
 # movieAndTvSeriesList
 
+Application for viewing movies and tv-series.
+
 # Setting up
 - clone repository (https://github.com/josipaglavinic/newsApp)
 - ``` npm install ```
