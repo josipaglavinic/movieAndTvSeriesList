@@ -42,7 +42,7 @@ https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_API_KEY
       />
 
       <div className="trending">
-        {series && series.map((s) => <Card item={s} key={s.id} />)}
+        {series && series.map((s) => <Card item={s} key={s.id} type />)}
 
         {numberOfPages > 1 ? (
           <BasicPagination
