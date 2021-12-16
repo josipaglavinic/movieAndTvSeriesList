@@ -105,7 +105,7 @@ export default function ContentModal({ children, id, media_type }) {
                   ).substring(0, 4)}
                   )
                 </span>
-                <i>{content.tagline}</i>
+                <i className="tagline">{content.tagline}</i>
                 <span className="description-title">Description:</span>
                 <p className="ContentModal__description">{content.overview}</p>
                 <div>{content.genres.map((genre) => genre.name + ", ")}</div>
