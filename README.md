@@ -12,6 +12,7 @@ Application for viewing movies and tv-series.
 - display trending movies and TV series using API
 - filter movie or tv series by choosing category
 - search for movies or tv series
+- display details about movie or tv-series
 - pagination
 - material ui
 
