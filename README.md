@@ -1,6 +1,10 @@
 # movieAndTvSeriesList
 
-Application for viewing movies and tv-series.
+Application for searching movies and tv-series.
+
+## Technology
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 
 ## Setting up
 - clone repository (https://github.com/josipaglavinic/movieAndTvSeriesList)
@@ -9,9 +13,9 @@ Application for viewing movies and tv-series.
 -  visit (http://localhost:3000) in the browser
 
 ## Features
-- display trending movies and TV series using API
-- filter movie or tv series by choosing category
-- search for movies or tv series
+- display trending movies and TV series 
+- filter movie or tv series by choosing category or categories
+- search by name for movies or tv-series
 - display details about movie or tv-series
 - pagination
 - material ui
